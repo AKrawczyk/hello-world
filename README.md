@@ -1,9 +1,9 @@
 # hello-world
-This is my first Repository on GitHub
-I work for a third level Education institution in Ireland as a Cloud/Virtulisation Engineere.
-
-Name = Aaron Krawczyk
-Title = Technical Office
-Orginisation = Cork Institute of Technology
-Department = IT Services
-Team = IT Operations
+This is my first Repository on GitHub</br>
+I work for a third level Education institution in Ireland as a Cloud/Virtulisation Engineere.</br>
+</br>
+Name = Aaron Krawczyk</br>
+Title = Technical Office</br>
+Orginisation = Cork Institute of Technology</br>
+Department = IT Services</br>
+Team = IT Operations</br>
